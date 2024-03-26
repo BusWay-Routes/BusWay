@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613119900476",
+    "project_id": "busway-33f45",
+    "storage_bucket": "busway-33f45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613119900476:android:5d247e54f6f60c70c6bc39",
+        "android_client_info": {
+          "package_name": "com.example.bus_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSd9PHaaABoLma_txNu0NMgJuArFixtTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
